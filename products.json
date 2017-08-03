@@ -1,65 +1,63 @@
-[
-          {
-            'id': 1,
-            'thumb': '/static/images/dummy/w78/8.jpg',
-            'name': 'Bio Acai Powder',
-            'quantity': 1,
-            'price': 16.65,
-            'type': 'Popular',
-            'category': 'Powders'
-          },
-          {
-            'id': 2,
-            'thumb': '/static/images/dummy/w78/1.jpg',
-            'name': 'Orange Flavoured Raw Cacao Bar',
-            'quantity': 1,
-            'price': 8.25,
-            'type': 'Popular',
-            'category': 'Powders'
-          },
-          {
-            'id': 3,
-            'thumb': '/static/images/dummy/w78/5.jpg',
-            'name': 'Alfalfa Leaf Powder',
-            'quantity': 1,
-            'price': 11.63,
-            'type': 'Popular',
-            'category': 'Powders'
-          },
-          {
-            'id': 4,
-            'thumb': '/static/images/dummy/w78/7.jpg',
-            'name': 'Bio Apricot Kernels',
-            'quantity': 1,
-            'price': 6.18,
-            'type': 'Popular',
-            'category': 'Powders'
-          },
-          {
-            'id': 5,
-            'thumb': '/static/images/dummy/w78/8.jpg',
-            'name': 'Bio Acai Powder',
-            'quantity': 1,
-            'price': 13.71,
-            'type': 'New',
-            'category': 'Juices'
-          },
-          {
-            'id': 6,
-            'thumb': '/static/images/dummy/w78/18.jpg',
-            'name': 'High Protein Diet Asparagus',
-            'quantity': 1,
-            'price': 16.91,
-            'type': 'New',
-            'category': 'Juices'
-          },
-          {
-            'id': 7,
-            'thumb': '/static/images/dummy/w78/24.jpg',
-            'name': 'Polnozrnati Svedri',
-            'quantity': 1,
-            'price': 16.91,
-            'type': 'New',
-            'category': 'Juices'
-          }
-        ]
+{
+  'id': 1,
+  'thumb': '/static/images/dummy/w78/8.jpg',
+  'name': 'Bio Acai Powder',
+  'quantity': 1,
+  'price': 16.65,
+  'type': 'Popular',
+  'category': 'Powders'
+},
+{
+  'id': 2,
+  'thumb': '/static/images/dummy/w78/1.jpg',
+  'name': 'Orange Flavoured Raw Cacao Bar',
+  'quantity': 1,
+  'price': 8.25,
+  'type': 'Popular',
+  'category': 'Powders'
+},
+{
+  'id': 3,
+  'thumb': '/static/images/dummy/w78/5.jpg',
+  'name': 'Alfalfa Leaf Powder',
+  'quantity': 1,
+  'price': 11.63,
+  'type': 'Popular',
+  'category': 'Powders'
+},
+{
+  'id': 4,
+  'thumb': '/static/images/dummy/w78/7.jpg',
+  'name': 'Bio Apricot Kernels',
+  'quantity': 1,
+  'price': 6.18,
+  'type': 'Popular',
+  'category': 'Powders'
+},
+{
+  'id': 5,
+  'thumb': '/static/images/dummy/w78/8.jpg',
+  'name': 'Bio Acai Powder',
+  'quantity': 1,
+  'price': 13.71,
+  'type': 'New',
+  'category': 'Juices'
+},
+{
+  'id': 6,
+  'thumb': '/static/images/dummy/w78/18.jpg',
+  'name': 'High Protein Diet Asparagus',
+  'quantity': 1,
+  'price': 16.91,
+  'type': 'New',
+  'category': 'Juices'
+},
+{
+  'id': 7,
+  'thumb': '/static/images/dummy/w78/24.jpg',
+  'name': 'Polnozrnati Svedri',
+  'quantity': 1,
+  'price': 16.91,
+  'type': 'New',
+  'category': 'Juices'
+}
